@@ -5,4 +5,4 @@
 # Risa Walles
 
 # Daniel Austin
-# I am very cool and better then some but not others, in particular areas but not others
+# I am very cool and better than some but not others, in particular areas but not others
