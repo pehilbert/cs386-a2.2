@@ -1,7 +1,7 @@
 # Peter Hilbert
 
 # Hunter Kilgore
-	# This is me! And here's my commit
+	# This is NOT ME! And here's my commit
 
 # Risa Walles
 
