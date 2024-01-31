@@ -8,3 +8,4 @@ Hello I am Peter and I am a software engineering major. Idk **HAHAHAHAHA**
 spiderverse enjoyer
 
 # Daniel Austin
+# I am very cool and better than some but not others, in particular areas but not others
