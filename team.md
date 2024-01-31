@@ -2,7 +2,7 @@
 Hello I am Peter and I am a software engineering major. Idk **LOOOL**
 
 # Hunter Kilgore
-	# I edited this! That's my name!
+	# This is NOT ME! And here's my commit
 
 # Risa Walles
 spiderverse enjoyer
